@@ -3,6 +3,42 @@
 This file tracks the implementation status for the `update/change` requirements:
 MongoDB integration + models, wiring current app features, and a public published-tour page with reviews.
 
+## Review findings (2026-03-24)
+
+### 1) High: creator account can be overwritten by username re-registration
+- File: `backend/src/controllers/authController.js`
+- Current behavior: `POST /api/auth/register` updates an existing creator by `username` with a new password/email/profile without verifying current ownership.
+- Impact: anyone who knows an existing username can reset that creator's password and profile data.
+- Suggested fix:
+  - For existing usernames, return `409 Username already exists` (no overwrite), OR
+  - Require authenticated owner + current password check before allowing profile/password updates.
+
+### 2) High: publish endpoint is effectively unauthenticated
+- Files: `backend/src/routes/tourRoutes.js`, `backend/src/controllers/tourController.js`
+- Current behavior: `POST /api/tours` accepts `creatorName` from request body and publishes immediately, with no server-side auth/session/token validation.
+- Impact: any caller can create published tours and impersonate creators by sending arbitrary `creatorName`.
+- Suggested fix:
+  - Add auth middleware and derive creator identity from verified token/session (not request body).
+  - Reject publish requests from unauthenticated users (`401/403`).
+
+### 3) Medium: creator identity mismatch causes duplicate creator records
+- Files: `backend/src/controllers/authController.js`, `frontend/src/context/AuthContext.jsx`, `frontend/src/pages/TourCreate.jsx`, `backend/src/controllers/tourController.js`
+- Current behavior:
+  - Login response returns only display `name`.
+  - Frontend stores only `user.name`.
+  - Publish sends `creatorName: user.name`, but backend looks up creator by `username`.
+- Impact: a registered user with `username != "firstName surname"` can generate a second creator record during publish.
+- Suggested fix:
+  - Return both `id/username/name` from login.
+  - Store `username` in auth context and publish with a stable `creatorId` or `username`.
+
+### 4) Medium: API error responses leak internal error details
+- File: `backend/src/server.js`
+- Current behavior: global error handler returns `{ details: err.message }` to clients.
+- Impact: internal diagnostics may leak implementation/database details.
+- Suggested fix:
+  - Return generic error payload in production (e.g. `{ error: 'Server error' }`) and keep detailed logs server-side only.
+
 ## Backend status (`backend/`)
 
 ### Implemented: project structure + routing/controllers split
