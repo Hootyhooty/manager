@@ -1,0 +1,12 @@
+- making register page for creator(more like popup)
+    - required info
+        - username
+        - password 
+        - email
+        - name and surname
+        - address (optional)
+        - phone number 
+    - close the popup after finish(no error and sucessful regist)
+    - for address check MapModal in update folder and adapt it in this project
+
+

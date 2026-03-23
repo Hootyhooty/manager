@@ -1,0 +1,53 @@
+23 March 2026
+
+#1
+- connect the project to mongodb database "manager_db"
+- using "creators" collection to collect registed users.
+- using "tours" collection to collect all tour that have been publish
+- using "transactions" collection to collect all transaction info
+- using "customers" collection to collect all customers info
+- using "guides" collection to collect all guides info
+- using "bookings" collection to collect all bookings info
+- using "reviews" collection to collect all reviews info
+- generate model according to "tour manager.drawio"
+- wiring all current functions
+- also create a page for a published tour and using the tour id as slug for url 
+- add reviews section to all published tour page
+
+* i have a guideline of what structure should be from my previous project in review.md
+* always ask me anything that you are not sure
+
+#2
+- I provide new folders in backend/src 
+    - controllers
+    - models
+    - routes
+    - scripts
+    - utils
+    - data
+
+- seperate models into new category files
+    - creator
+    - tourItineraryItem
+    - tour
+    - customer
+    - guide
+    - booking 
+    - transaction
+    - review
+
+- seperate server.js into 
+    - controllers, where to control functions
+    - routes, api call
+
+#3
+- making register page for creator(more like popup)
+    - required info
+        - username
+        - password 
+        - email
+        - name and surname
+        - address (optional)
+        - phone number 
+    - close the popup after finish(no error and sucessful regist)
+    - for address check MapModal in update folder and adapt it in this project

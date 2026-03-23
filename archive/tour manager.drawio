@@ -1,0 +1,432 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3">
+  <diagram name="Page-1" id="3vq2ESQ_didekjqwqk1b">
+    <mxGraphModel dx="3994" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="280" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tour manager" vertex="1">
+          <mxGeometry height="40" width="200" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="40" width="90" x="175" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tour manager" vertex="1">
+          <mxGeometry height="40" width="120" x="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--16" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKTVBa6ThHRGOKp7rNo--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="280" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--8" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tour manager" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Email or Username" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Password" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Register new account" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Forget password" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="280" x="440" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--65" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tour Title: [_____________________]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Destination: [Bangkok ▼]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Category: [Adventure ▼]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Duration:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[ N ] Days&amp;nbsp; [ N ] Nights&lt;br&gt;&lt;br&gt;From: [Calendar] to [Calendar]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Short Description:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[________________________]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="280" x="80" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create" vertex="1">
+          <mxGeometry height="20" width="40" x="450" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="menu" vertex="1">
+          <mxGeometry height="130" width="40" x="450" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user&#39;s tour summarise" vertex="1">
+          <mxGeometry height="130" width="180" x="510" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{name}&#39;s dashboard" vertex="1">
+          <mxGeometry height="30" width="160" x="520" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--22" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.8800000000001" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Summary Cards&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-----------------------------------------&lt;/span&gt;&lt;/div&gt;&lt;div&gt;| Total Tours | Bookings | Revenue | Users |&lt;/div&gt;&lt;div&gt;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;{N}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; {N}&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp; &amp;nbsp;{N}&amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp; &amp;nbsp;{N}&amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-----------------------------------------&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recent tour added&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;br&gt;&lt;/span&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Tour&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Guide&lt;/th&gt;&lt;th&gt;Travelers&lt;/th&gt;&lt;th&gt;Status&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Phuket Island&lt;/td&gt;&lt;td&gt;Mar 29&lt;/td&gt;&lt;td&gt;John&lt;/td&gt;&lt;td&gt;12/20&lt;/td&gt;&lt;td&gt;Open&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bangkok City&lt;/td&gt;&lt;td&gt;Mar 28&lt;/td&gt;&lt;td&gt;Mike&lt;/td&gt;&lt;td&gt;18/20&lt;/td&gt;&lt;td&gt;Almost Full&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Recent bookings&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Customer&lt;/th&gt;&lt;th&gt;Tour&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Travelers&lt;/th&gt;&lt;th&gt;Status&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Alex&lt;/td&gt;&lt;td&gt;Chiang Mai Trek&lt;/td&gt;&lt;td&gt;Mar 22&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Confirmed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sara&lt;/td&gt;&lt;td&gt;Phuket Island&lt;/td&gt;&lt;td&gt;Mar 22&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Pending&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Revenue summary&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;Revenue This Month: $12,500&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Pending Payments: $2,300&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Refunds: $300&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;---------&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;-----------------------------------------&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="280" x="440" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="default" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--27" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--31" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="475" />
+              <mxPoint x="400" y="640" />
+              <mxPoint x="365" y="640" />
+            </Array>
+            <mxPoint x="450" y="475" as="sourcePoint" />
+            <mxPoint x="420" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="90" x="320" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sidebar" vertex="1">
+          <mxGeometry height="40" width="60" x="335" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Dashboard&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--49" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="745" />
+              <mxPoint x="430" y="975" />
+            </Array>
+            <mxPoint x="430" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Tours&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--51" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKTVBa6ThHRGOKp7rNo--50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="775" />
+              <mxPoint x="300" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Bookings&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Customers&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Guides&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Payments&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Reports&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="320" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--45" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Example (add price cost) later&lt;br&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Tour&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Guide&lt;/th&gt;&lt;th&gt;Travelers&lt;/th&gt;&lt;th&gt;Status&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Phuket Island&lt;/td&gt;&lt;td&gt;Mar 29&lt;/td&gt;&lt;td&gt;John&lt;/td&gt;&lt;td&gt;12/20&lt;/td&gt;&lt;td&gt;Open&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bangkok City&lt;/td&gt;&lt;td&gt;Mar 28&lt;/td&gt;&lt;td&gt;Mike&lt;/td&gt;&lt;td&gt;18/20&lt;/td&gt;&lt;td&gt;Almost Full&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;sort by date&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="260" x="30" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--48" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKTVBa6ThHRGOKp7rNo--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tour&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Date&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Guide&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Price&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Cost&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Travelers&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Status&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="380" x="30" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--50" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Customer&lt;/th&gt;&lt;th&gt;Tour&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Travelers&lt;/th&gt;&lt;th&gt;Status&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Alex&lt;/td&gt;&lt;td&gt;Chiang Mai Trek&lt;/td&gt;&lt;td&gt;Mar 22&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Confirmed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sara&lt;/td&gt;&lt;td&gt;Phuket Island&lt;/td&gt;&lt;td&gt;Mar 22&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Pending&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;sort by date&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="15" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Customer&lt;/th&gt;&lt;th&gt;Tour/Date&lt;/th&gt;&lt;th&gt;Address&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Phone&lt;/th&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Status&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Alex&lt;/td&gt;&lt;td&gt;Chiang Mai Trek/Mar 24&lt;/td&gt;&lt;td&gt;{N}&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; {N}&lt;/td&gt;&lt;td&gt;{ilness or request}&lt;/td&gt;&lt;td&gt;Active&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sara&lt;/td&gt;&lt;td&gt;Phuket Island/Mar 28&lt;/td&gt;&lt;td&gt;{N}&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; {N}&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;{ilness or request}&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td&gt;Inactive&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;sort by name and also list all tours that the customer have spent.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="325" x="-40" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--53" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Guide&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tours/Cost&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Address&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; PhoneNumber&lt;span style=&quot;white-space: pre;&quot;&gt;   S&lt;/span&gt;tatus&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;  Remark&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;example&lt;br&gt;&lt;br&gt;John&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;Phuket Island/Mar29/฿2000  .........  0813124477  active  available sat and sun&lt;br&gt;&lt;br&gt;sort by name, also have add tour guide button at the end of the table&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="460" x="-40" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--56" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKTVBa6ThHRGOKp7rNo--54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="835" />
+              <mxPoint x="440" y="1214" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="295" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="245" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--70" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;Tour details&lt;/div&gt;&lt;div&gt;Highlights:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Hotel:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Transportation:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Guide/Agency:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Contact Number:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Other:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[_____________________]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="280" x="-250" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-40" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-140" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-90" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Tour planning&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="280" x="-580" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Date: [_____________________]&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Title&lt;/span&gt;:&lt;br&gt;[_____________________]&lt;/div&gt;&lt;div&gt;&lt;br&gt;Description: [_____________________]&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="160" x="-580" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-370" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-470" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-420" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--76" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKTVBa6ThHRGOKp7rNo--71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add day" vertex="1">
+          <mxGeometry height="20" width="60" x="-470" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--89" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Confirm" vertex="1">
+          <mxGeometry height="20" width="40" x="-470" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-520" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Tour planning&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="280" x="-370" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-160" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-260" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-210" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--94" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Date}&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Title}&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Description}&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="-350" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Edit" vertex="1">
+          <mxGeometry height="20" width="40" x="-160" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Delete" vertex="1">
+          <mxGeometry height="20" width="40" x="-210" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add day" vertex="1">
+          <mxGeometry height="20" width="60" x="-260" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--95" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Date}&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Title}&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{Description}&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="-350" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Edit" vertex="1">
+          <mxGeometry height="20" width="40" x="-160" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Delete" vertex="1">
+          <mxGeometry height="20" width="40" x="-210" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--92" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="can drag to switch place" vertex="1">
+          <mxGeometry height="30" width="140" x="-570" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="280" x="-360" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-150" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-250" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-200" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add image" vertex="1">
+          <mxGeometry height="30" width="60" x="-170" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cover img (require)" vertex="1">
+          <mxGeometry height="120" width="230" x="-340" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--102" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.786;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="click on to add&lt;br&gt;&lt;br&gt;after add it will show in this section" vertex="1">
+          <mxGeometry height="30" width="60" x="-470" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--105" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.133;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="" vertex="1">
+          <mxGeometry height="340" width="280" x="-360" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--123" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="1560" />
+              <mxPoint x="-400" y="1560" />
+              <mxPoint x="-400" y="1315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-150" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-250" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-200" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add image" vertex="1">
+          <mxGeometry height="30" width="60" x="-170" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cover img (require)" vertex="1">
+          <mxGeometry height="120" width="230" x="-340" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="img 1" vertex="1">
+          <mxGeometry height="90" width="230" x="-340" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--113" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="1115" />
+              <mxPoint x="-60" y="1413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Price and Capacity&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Price per person: [{$}]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Max Travelers: [N]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tour Guide:&lt;/div&gt;&lt;div&gt;[ Name ▼ ]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="280" x="-700" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next" vertex="1">
+          <mxGeometry height="20" width="40" x="-490" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-590" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-540" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--131" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-470.9399999999998" y="1461.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="" vertex="1">
+          <mxGeometry height="540" width="480" x="-710" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cover img (require)" vertex="1">
+          <mxGeometry height="120" width="380" x="-660" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{Tour Title}" vertex="1">
+          <mxGeometry height="30" width="90" x="-660" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{Short Description}" vertex="1">
+          <mxGeometry height="30" width="110" x="-650" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{Duration}" vertex="1">
+          <mxGeometry height="30" width="60" x="-645" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{FromTo}" vertex="1">
+          <mxGeometry height="30" width="60" x="-585" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{Hightlight}" vertex="1">
+          <mxGeometry height="30" width="60" x="-645" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{Contact Number}" vertex="1">
+          <mxGeometry height="30" width="105" x="-647.5" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Publish" vertex="1">
+          <mxGeometry height="20" width="40" x="-310" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="20" width="40" x="-410" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save draft" vertex="1">
+          <mxGeometry height="20" width="40" x="-360" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cancel" vertex="1">
+          <mxGeometry height="20" width="40" x="-460" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{price}" vertex="1">
+          <mxGeometry height="30" width="60" x="-660" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="img 1" vertex="1">
+          <mxGeometry height="60" width="120" x="-647.5" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="img 2" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="img 3" vertex="1">
+          <mxGeometry height="60" width="120" x="-390" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The creater can drag/drop to reorder any elements in this section" vertex="1">
+          <mxGeometry height="30" width="200" x="-770" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--154" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.085;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKTVBa6ThHRGOKp7rNo--133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="QR" vertex="1">
+          <mxGeometry height="60" width="77.5" x="-645" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--157" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.814;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-153.92000000000007" y="2130.2400000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="auto gen page and ask the creater where to save the poster as show in preview. redirect the creater to the tour page." vertex="1">
+          <mxGeometry height="60" width="160" x="-160" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--160" edge="1" parent="1" source="jKTVBa6ThHRGOKp7rNo--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jKTVBa6ThHRGOKp7rNo--159" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-470" y="1420" as="sourcePoint" />
+            <mxPoint x="-470" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKTVBa6ThHRGOKp7rNo--159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="preview before publish" vertex="1">
+          <mxGeometry height="30" width="60" x="-500" y="1495" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
